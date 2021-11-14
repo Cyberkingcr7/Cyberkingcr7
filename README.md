@@ -1,11 +1,11 @@
 ### GREETINGS
 
--   Fully Modular Design
--   Object Oriented
--   Written in [TypeScript](https://www.typescriptlang.org/)
--   Self-Restoring Auth
--   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
-    WhatsApp Library Out There) 
+-   Im suijin
+-   Im interested in bots
+-   Im 15
+-   Im always ready to try something new 
+-   Im learning more js and ts
+    
 
 <!--
 **Cyberkingcr7/Cyberkingcr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
