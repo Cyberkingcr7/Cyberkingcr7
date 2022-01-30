@@ -1,23 +1,21 @@
-### GREETINGS
+### About me
 
--   Im suijin
--   Im interested in bots
--   Im not 15 ig
--   Im always ready to try something new 
--   Im learning more js and ts
--   WA number wa.me/27780993470
+import {personality} from '@github' //personality is imported but never used
 
-<!--
-**Cyberkingcr7/Cyberkingcr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const person = { name : suijin
+                               age : 15
+                              likes : typescript, automation
+                               mostUsedLanguage : Javascript 
+                            good_at : html
+                      grade : 10
+                number : unknown 
+}
 
-Here are some ideas to get you started:
+console.log(person.name);
+console.log(person.age);
+console.log(person.likes);
+console.log(good_at);
+console.log(mostUsedLanguage);
+console.log(person.grade);
+console.log(person.number);
 
-- 🔭 I’m currently working on botto kaoi
-- 🌱 I’m currently learning more about typescript
-- 👯 I’m looking to collaborate on WhatsApp bots
-
-
-
-
-
--->
