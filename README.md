@@ -3,11 +3,11 @@
 import {personality} from '@github' //personality is imported but never used
 
 const person = { name : suijin
-                               age : 15
-                              likes : typescript, automation
-                               mostUsedLanguage : Javascript 
-                            good_at : html
-                      grade : 10
+                  age : 15
+                 likes : typescript, automation
+                 mostUsedLanguage : Javascript 
+                  good_at : html
+                 grade : 10
                 number : unknown 
 }
 
