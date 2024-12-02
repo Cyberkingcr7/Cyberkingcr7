@@ -1,21 +1,14 @@
 ### About me
 
-import {personality} from 'github' 
+import { identity } from 'github' 
 
-const person = { name : suijin
-                  age : 15
-                 likes : typescript, automation
-                 mostUsedLanguage : Javascript 
-                  good_at : html
-                 grade : 10
-                 
-}
+const whoami = identity.data
+const name = whoami.name
+const age = whoami.age
 
-console.log(person.name);
-console.log(person.age);
-console.log(person.likes);
-console.log(good_at);
-console.log(mostUsedLanguage);
-console.log(person.grade);
+console.log(name)
+console.log(age)
+
+//output: Suijin 17
 
 
